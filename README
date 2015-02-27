@@ -1,0 +1,6 @@
+PermutationsJS
+==============
+
+A port of Pythons `itertools.permutations` to js.
+
+First very rough implementation.
